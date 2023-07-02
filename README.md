@@ -1,13 +1,13 @@
-# This is study project from the course ["Full course on JavaScript + React - from scratch to the result"](https://www.udemy.com/course/javascript_full/)
+## This is study project from the course ["Full course on JavaScript + React - from scratch to the result"](https://www.udemy.com/course/javascript_full/)
 
-## Functionality:
+### Functionality:
 
 - Fetching data from the server
 - Rendering and lazy loading of cards
 - Rendering random characters
 - Comic information
 
-## Technology Stack:
+### Technology Stack:
 
 - SCSS
 - JavaScript:
